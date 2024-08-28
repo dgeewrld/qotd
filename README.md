@@ -1,4 +1,4 @@
-# qotd - quote of the day
+# quote of the day (qotd)
 A simple Python application that displays a randomly selected quote of the day in a pop-up window. 
 
 ## Project Description
