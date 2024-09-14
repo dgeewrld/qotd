@@ -10,8 +10,8 @@ This project is a lightweight app that reads quotes from a CSV file, selects one
 
 ## How to Run
 1. Clone the repository: `git clone https://github.com/your-username/your-repo-name.git`
-2. Navigate to the project directory.
-3. Create and activate a virtual environment.
+2. Navigate to the project directory: `cd path\to\your\project\directory`
+3. Create and activate a virtual environment (if used).
 4. Install dependencies: `pip install -r requirements.txt`
 5. Run the application: `python src/main.py`
 
